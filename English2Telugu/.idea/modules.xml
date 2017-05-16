@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Common-2016.1.113-dev-release/Common-2016.1.113-dev-release.iml" filepath="$PROJECT_DIR$/Common-2016.1.113-dev-release/Common-2016.1.113-dev-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data-2016.1.113-dev-release/Data-2016.1.113-dev-release.iml" filepath="$PROJECT_DIR$/Data-2016.1.113-dev-release/Data-2016.1.113-dev-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/English2Telugu.iml" filepath="$PROJECT_DIR$/English2Telugu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List-2016.1.113-dev-release/List-2016.1.113-dev-release.iml" filepath="$PROJECT_DIR$/List-2016.1.113-dev-release/List-2016.1.113-dev-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
